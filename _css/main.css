@@ -1,1 +1,108 @@
 /* css */
+body{
+    margin:0px;
+    padding:0px;
+    background-color:black;
+}
+#page{
+    background-image:url("http://www.hobicell.com/wallpaper/download/download-free-funny-batman-wallpaper-wallpaper-funny-hd-wallpapers-.jpg")
+}
+#header{
+    background-color:gray;
+    padding:0px;
+    color:white;
+}
+
+h1{
+    padding:20px 40px;
+    margin:0px;
+    font-family:verdana;
+    font-size:60pt;
+}
+/* navigation */
+#nav, #nav a{
+    background-color:#CCC;    /* sets background color to gray */
+    padding:10px;
+}
+
+#nav a{
+    margin:0px;
+    color:black;
+    font-family:arial;
+    text-decoration:none;
+    transition:background-color 1s, color 1s;
+}
+
+#nav a:hover{
+    background-color:#aaaaff;  /* changes background color to purple*/
+    color:white;
+    transition:color 1s,; /* changes bc */
+}
+/* end navigation */
+#content{
+    padding:20px 40px;
+    background-color:#eee;
+    margin:0px;
+}
+
+h2,h3{
+    font-family:arial;
+}
+
+#footer{
+    padding:20px 40px;
+    background-color:black;
+    margin:0px;
+    color:white;
+}
+
+.spotlight{
+    background-color:pink;
+    padding:20px;
+}
+#page{
+    padding:40px 80px;
+    background-color:purple;
+}
+#nav{
+    padding-left:40px;
+}
+/*#header {
+    padding:20px;
+    width:400px;
+    background-color:gray;
+    color:white;
+}
+#header:hover {
+    color:black;
+    width:200px;
+    Background-color:pink;
+    transition: background-color 2s, width 2s, color 2s;
+}
+#header h2{
+    background-color:#6666ff;
+    padding:9px;
+}
+#header h2:hover{
+    background-color:green;
+    font-family:arial;
+    transition: background-color 2s, font-family 2s;
+}
+#content{
+    width:400px;
+    background-color:teal;
+}
+#content:hover{
+    background-color:turquoise;
+    transition: background-color 2s;
+}
+#footer{
+    width:400px;
+    background-color:green;
+}
+#footer:hover{
+    background-color:#6666ff;
+    transition: background-color 2s;
+}*/
+
+
